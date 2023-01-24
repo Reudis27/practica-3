@@ -1,0 +1,29 @@
+.p1{
+
+    color: blue;
+
+}
+
+.p2
+{
+    font-size: 20px;
+}
+
+.p3{
+    border: solid red 20px;
+}
+
+.a
+{
+    text-decoration: none;
+}
+
+#destacado
+{
+    background-color: yellow;
+}
+
+#Titulo
+{
+    font-weight: bold;
+}
